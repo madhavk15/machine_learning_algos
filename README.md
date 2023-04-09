@@ -29,4 +29,4 @@ accuracy = 84.8%
 
 5. Neural Network
   Single Layer Neural Network accuracy = 81.55%
-  N Layer Neural Network accuracy = 75.73%
+  N Layer Neural Network accuracy = 87%
